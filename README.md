@@ -27,3 +27,8 @@ DistanceFunction(lat2, lon2, lat1, lon1):
 d is the distance between the given pair of latitude and longitude. The distance is in
 miles. Reference: http://www.movable-type.co.uk/scripts/latlong.html
 
+#### How to run:
+* Start the MongoDB engine (mongod --dbpath < MongoDB data folder path >)
+* Run the tester.py file
+
+
